@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://WHOAMI-DMC.github.io/WHOAMI-DMC.io/"><img src="https://readme-typing-svg.demolab.com?font=Neuton&size=25&pause=1000&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hi+I'm+WHOAMI-DMC......;Welcome+to+my+git+hope+u+got+what+u+need.......;" alt="Typing SVG" /></a>
+<p align="center"><a href="https://WHOAMI-DMC.github.io/WHOAMI-DMC.io/"><img src="https://readme-typing-svg.demolab.com?font=Neuton&size=25&pause=1000&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hi+I'm+WHOAMI-DMC......;Wlc+To+My+Git+Hope+U+Got+What+U+Need.......;" alt="Typing SVG" /></a>
 
 
 
